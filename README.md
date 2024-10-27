@@ -24,3 +24,6 @@ Specify a custom message size in bytes:
 ```sh
 ./ipc 1024
 ```
+
+## Benchmark Results
+https://docs.google.com/document/d/15-OAglfep5koIBTutTJraGNpmwA3MTxjLJJ7PDMcfZ8/edit?hl=uk&tab=t.0
