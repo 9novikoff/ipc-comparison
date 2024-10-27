@@ -6,21 +6,21 @@ This repository provides a comprehensive comparison of various Inter-Process Com
 
 ## Setup Instructions
 ```sh
-git clone https://github.com/yourusername/ipc-comparison.git
+git clone https://github.com/9novikoff/ipc-comparison.git
 cd ipc-comparison
 ```
 
 ```sh
-gcc ipc_comparison.c -o ipc_comparison
+gcc ipc.c -o ipc
 ```
 
 ## Running the Program
 Using the default size (1 MB):
 ```sh
-./ipc_comparison
+./ipc
 ```
 
 Specify a custom message size in bytes:
 ```sh
-./ipc_comparison 1024
+./ipc 1024
 ```
